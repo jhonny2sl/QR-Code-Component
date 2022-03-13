@@ -8,7 +8,7 @@ body {
 .container {
     background: hsl(0, 0%, 100%);
     border-radius: 1.5em;
-    box-shadow: 0 0.9375em 1.25em -0.9375em hsl(220, 15%, 55%);
+    box-shadow: 0 1.875em 3.75em -1.875em hsl(220, 15%, 55%);
     margin: 5.3125rem auto;
     padding: 1em;
     width: 20.125em;
@@ -28,9 +28,10 @@ img {
 }
 
 
-h2 {
+h1 {
     color: hsl(218, 44%, 22%);
     /* font-weight: 700; */
+    font-size: 1.5em;
 }
 
 p {
